@@ -7,3 +7,4 @@ for i in range(3,n+1):
     array[i] = (array[i-2]+array[i-1])%15746
 
 print(array[n])
+#d
